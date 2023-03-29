@@ -1,328 +1,328 @@
 <?xml version="1.0"?>
 <data>
 	<book>
+		<division>Torah</division>
 		<name>Genesis</name>
 		<chapters>50</chapters>
-		<order>1</order>
 	</book>
 	<book>
+		<division>Torah</division>
 		<name>Exodus</name>
 		<chapters>40</chapters>
-		<order>2</order>
 	</book>
 	<book>
+		<division>Torah</division>
 		<name>Leviticus</name>
 		<chapters>27</chapters>
-		<order>3</order>
 	</book>
 	<book>
+		<division>Torah</division>
 		<name>Numbers</name>
 		<chapters>36</chapters>
-		<order>4</order>
 	</book>
 	<book>
+		<division>Torah</division>
 		<name>Deuteronomy</name>
 		<chapters>34</chapters>
-		<order>5</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>Joshua</name>
 		<chapters>24</chapters>
-		<order>6</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>Judges</name>
 		<chapters>21</chapters>
-		<order>7</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>Ruth</name>
 		<chapters>4</chapters>
-		<order>8</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>1 Samuel</name>
 		<chapters>31</chapters>
-		<order>9</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>1 Kings</name>
 		<chapters>22</chapters>
-		<order>10</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>2 Kings</name>
 		<chapters>25</chapters>
-		<order>11</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>1 Chronicles</name>
 		<chapters>29</chapters>
-		<order>12</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>2 Chronicles</name>
 		<chapters>36</chapters>
-		<order>13</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>Ezra</name>
 		<chapters>10</chapters>
-		<order>14</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>Nehemiah</name>
 		<chapters>13</chapters>
-		<order>15</order>
 	</book>
 	<book>
+		<division>Historical</division>
 		<name>Ester</name>
 		<chapters>10</chapters>
-		<order>16</order>
 	</book>
 	<book>
+		<division>Wisdom</division>
 		<name>Job</name>
 		<chapters>42</chapters>
-		<order>17</order>
 	</book>
 	<book>
+		<division>Wisdom</division>
 		<name>Psalms</name>
 		<chapters>150</chapters>
-		<order>18</order>
 	</book>
 	<book>
+		<division>Wisdom</division>
 		<name>Proverbs</name>
 		<chapters>31</chapters>
-		<order>19</order>
 	</book>
 	<book>
+		<division>Wisdom</division>
 		<name>Ecclesiastes</name>
 		<chapters>12</chapters>
-		<order>20</order>
 	</book>
 	<book>
+		<division>Wisdom</division>
 		<name>Song of Solomon</name>
 		<chapters>8</chapters>
-		<order>21</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Isaiah</name>
 		<chapters>66</chapters>
-		<order>22</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Jeremiah</name>
 		<chapters>52</chapters>
-		<order>23</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Lamentations</name>
 		<chapters>5</chapters>
-		<order>24</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Ezekiel</name>
 		<chapters>48</chapters>
-		<order>25</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Daniel</name>
 		<chapters>12</chapters>
-		<order>26</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Hosea</name>
 		<chapters>14</chapters>
-		<order>27</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Joel</name>
 		<chapters>3</chapters>
-		<order>28</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Amos</name>
 		<chapters>9</chapters>
-		<order>29</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Obadiah</name>
 		<chapters>1</chapters>
-		<order>30</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Jonah</name>
 		<chapters>4</chapters>
-		<order>31</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Micah</name>
 		<chapters>7</chapters>
-		<order>32</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Nahum</name>
 		<chapters>3</chapters>
-		<order>33</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Habakkuk</name>
 		<chapters>3</chapters>
-		<order>34</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Zephaniah</name>
 		<chapters>3</chapters>
-		<order>35</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Haggai</name>
 		<chapters>2</chapters>
-		<order>36</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Zechariah</name>
 		<chapters>14</chapters>
-		<order>37</order>
 	</book>
 	<book>
+		<division>Prophets</division>
 		<name>Malachi</name>
 		<chapters>4</chapters>
-		<order>38</order>
 	</book>
 	<book>
+		<division>Gospel</division>
 		<name>Matthew</name>
 		<chapters>28</chapters>
-		<order>39</order>
 	</book>
 	<book>
+		<division>Gospel</division>
 		<name>Mark</name>
 		<chapters>16</chapters>
-		<order>40</order>
 	</book>
 	<book>
+		<division>Gospel</division>
 		<name>Luke</name>
 		<chapters>24</chapters>
-		<order>41</order>
 	</book>
 	<book>
+		<division>Gospel</division>
 		<name>John</name>
 		<chapters>21</chapters>
-		<order>42</order>
 	</book>
 	<book>
+		<division>History</division>
 		<name>Acts</name>
 		<chapters>28</chapters>
-		<order>43</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>Romans</name>
 		<chapters>16</chapters>
-		<order>44</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>1 Corithians</name>
 		<chapters>16</chapters>
-		<order>45</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>2 Corithians</name>
 		<chapters>13</chapters>
-		<order>46</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>Galatians</name>
 		<chapters>6</chapters>
-		<order>47</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>Ephesians</name>
 		<chapters>6</chapters>
-		<order>48</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>Philippians</name>
 		<chapters>4</chapters>
-		<order>49</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>Colosians</name>
 		<chapters>4</chapters>
-		<order>50</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>1 Thessalonians</name>
 		<chapters>5</chapters>
-		<order>51</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>2 Thessalonians</name>
 		<chapters>3</chapters>
-		<order>52</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>1 Timothy</name>
 		<chapters>6</chapters>
-		<order>53</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>2 Timothy</name>
 		<chapters>4</chapters>
-		<order>54</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>Titus</name>
 		<chapters>3</chapters>
-		<order>55</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>Philemon</name>
 		<chapters>1</chapters>
-		<order>56</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>Hebrews</name>
 		<chapters>13</chapters>
-		<order>57</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>James</name>
 		<chapters>5</chapters>
-		<order>59</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>1 Peter</name>
 		<chapters>5</chapters>
-		<order>59</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>2 Peter</name>
 		<chapters>3</chapters>
-		<order>60</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>1 John</name>
 		<chapters>5</chapters>
-		<order>61</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>2 John</name>
 		<chapters>1</chapters>
-		<order>62</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>3 John</name>
 		<chapters>1</chapters>
-		<order>63</order>
 	</book>
 	<book>
+		<division>Epistles</division>
 		<name>Jude</name>
 		<chapters>1</chapters>
-		<order>64</order>
 	</book>
 	<book>
+		<division>Apocalyptic</division>
 		<name>Revelation</name>
 		<chapters>22</chapters>
-		<order>65</order>
 	</book>
 </data>
